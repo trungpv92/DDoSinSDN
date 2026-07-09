@@ -4,10 +4,9 @@ This repository provides a dataset for analyzing and detecting **DoS (Denial of 
 
 ## 📊 Dataset Description
 
-The dataset was generated using the **MaxiNet** emulator to simulate an SDN environment. It includes traffic data corresponding to three types of flooding attacks:
+The dataset was generated using the **MaxiNet** emulator to simulate an SDN environment. It includes traffic data corresponding to two types of flooding attacks:
 
 - **TCP SYN Flood (Volumetric)**
-- **ICMP Flood (Volumetric)**
 - **Slowloris (Stealthy)**
 
 **Key features:**
